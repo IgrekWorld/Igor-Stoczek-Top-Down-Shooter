@@ -3916,3 +3916,326 @@ Script Stack (0 frames):
 [2023.01.14-14.39.19:034][356]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/Archer_Rifle_End1DF8579C4DD8AB6CD9993FAFD062F096.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/Sounds/Weapons/AssultRifle/Archer_Rifle_End.uasset'
 [2023.01.14-14.39.19:069][356]AssetCheck: New page: Asset Save: Archer_Rifle_End
 [2023.01.14-14.39.19:069][356]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapons/AssultRifle/Archer_Rifle_End.Archer_Rifle_End
+[2023.01.14-14.47.47:213][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.14-15.10.21:219][565]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.01.14-15.10.21:235][565]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.01.14-15.10.34:394][957]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_PlayerHUD
+[2023.01.14-15.10.34:566][957]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.01.14-15.10.54:479][425]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.01.14-15.12.39:243][419]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HUD/HUDMain.HUDMain
+[2023.01.14-15.13.22:197][470]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.13.22:508][470]LogUObjectHash: Compacting FUObjectHashTables data took  13.28ms
+[2023.01.14-15.13.57:797][118]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/HeroTPP/HeroTPP.HeroTPP
+[2023.01.14-15.13.58:039][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.14-15.14.00:329][118]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2023.01.14-15.27.26:548][863]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-15.27.26:548][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.27.47:425][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\projekty\Nalar-Blog\Archer_Solider_Head.png)
+[2023.01.14-15.27.48:587][190]LogTexture: Display: Building textures: Archer_Solider_Head (BGRA8, 268X269)
+[2023.01.14-15.28.41:258][380]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.01.14-15.28.41:303][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.01.14-15.28.41:345][380]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/W_PlayerHUD5F0DCBA84E529B4036F58195B2C467D0.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset'
+[2023.01.14-15.28.41:430][380]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/Archer_Solider_Head0151BCCC4AAE14A83EFBEFAC34985E25.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/Archer_Solider_Head.uasset'
+[2023.01.14-15.28.41:632][380]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.14-15.28.41:632][380]LogContentValidation: Display: Validating Texture2D /Game/UI/Archer_Solider_Head.Archer_Solider_Head
+[2023.01.14-15.28.41:632][380]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.01.14-15.29.10:460][741]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.29.10:556][741]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2023.01.14-15.31.22:114][693]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.31.22:181][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2023.01.14-15.32.17:249][936]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.32.17:300][936]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2023.01.14-15.32.40:485][455]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.14-15.32.46:680][599]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.32.46:727][599]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2023.01.14-15.32.47:382][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.01.14-15.32.47:393][611]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/W_PlayerHUDC7D8C01E496D831B88596A91114EED22.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset'
+[2023.01.14-15.32.47:420][611]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.01.14-15.32.47:420][611]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.01.14-15.34.09:439][463]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.34.09:512][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2023.01.14-15.34.09:998][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.01.14-15.34.10:008][473]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/W_PlayerHUDC8CFFE3047925B421EA05EB0964D6674.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset'
+[2023.01.14-15.34.10:031][473]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.01.14-15.34.10:032][473]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.01.14-15.35.09:568][775]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.14-15.35.09:572][775]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/Weapons/WeapLauncher.WeapLauncher is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.01.14-15.35.09:573][775]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/Weapons/WeapGun_Impacts.WeapGun_Impacts is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.01.14-15.35.09:573][775]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/DmgType_Instant.DmgType_Instant is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.01.14-15.35.09:573][775]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/Weapons/WeapGun.WeapGun is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.01.14-15.35.09:573][775]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/Weapons/ProjRocket_Explosion.ProjRocket_Explosion is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.01.14-15.35.09:573][775]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/Weapons/ProjRocket.ProjRocket is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.01.14-15.35.09:573][775]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/DmgType_Explosion.DmgType_Explosion is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.01.14-15.35.09:702][775]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.14-15.35.26:058][135]BlueprintLog: New page: Compile Archer
+[2023.01.14-15.35.26:181][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2023.01.14-15.35.26:876][145]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/Archer3AB81C95497732A46B09018EB4C3BE71.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/Blueprints/Pawns/Character/Archer.uasset'
+[2023.01.14-15.35.26:974][145]AssetCheck: New page: Asset Save: Archer
+[2023.01.14-15.35.26:974][145]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Character/Archer.Archer
+[2023.01.14-15.35.29:034][197]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.14-15.35.29:050][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.14-15.35.29:050][197]PIE: New page: PIE session: Untitled_1 (14 sty 2023, 17:35:29)
+[2023.01.14-15.35.29:051][197]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.35.29:056][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005519s)
+[2023.01.14-15.35.29:058][197]LogAIModule: Creating AISystem for world Untitled_1
+[2023.01.14-15.35.29:058][197]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2023.01.14-15.35.29:058][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007606s)
+[2023.01.14-15.35.29:095][197]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2023.01.14-15.35.29:096][197]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.01.14-15.35.29:096][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.14-15.35.29:096][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.14-15.35.29:096][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.14-15.35.29:096][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.14-15.35.29:096][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.14-15.35.29:096][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.14-15.35.29:097][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.14-15.35.29:097][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.14-15.35.29:097][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.14-15.35.29:097][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.14-15.35.29:097][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.14-15.35.29:097][197]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.14-15.35.29:117][197]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.14-15.35.29:117][197]LogAudioMixer: Display: 1: FrontRight
+[2023.01.14-15.35.29:141][197]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2023.01.14-15.35.29:143][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.14-15.35.29:143][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.14-15.35.29:143][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.14-15.35.29:170][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.14-15.35.29:171][197]LogAudioEndpoints: Display: No endpoint implementation for Vibration Output found for this platform. Endpoint Submixes set to this type will not do anything.
+[2023.01.14-15.35.29:171][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.14-15.35.29:171][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.14-15.35.29:172][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.14-15.35.29:172][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.14-15.35.29:172][197]LogInit: FAudioDevice initialized.
+[2023.01.14-15.35.29:172][197]LogAudio: Display: Audio Device (ID: 19) registered with world 'Untitled_1'.
+[2023.01.14-15.35.29:185][197]LogLoad: Game class is 'TopDownShooter_C'
+[2023.01.14-15.35.29:187][197]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.01.14-16.35.29
+[2023.01.14-15.35.29:187][197]LogWorld: Bringing up level for play took: 0.001080
+[2023.01.14-15.35.29:188][197]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.01.14-15.35.29:331][197]PIE: Server logged in
+[2023.01.14-15.35.29:332][197]PIE: Play in editor total start time 0,286 seconds.
+[2023.01.14-15.36.13:774][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.36.13:774][570]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.36.13:808][570]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-15.36.13:808][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.36.13:823][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.14-15.36.13:911][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.36.13:942][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.14-15.36.13:943][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.36.13:944][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.36.13:979][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.36.13:985][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.01.14-15.36.14:100][571]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.01.14-15.38.17:083][534]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.38.17:135][534]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.01.14-15.38.17:770][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.01.14-15.38.17:781][546]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/W_PlayerHUD04A5BD124BE79F78C0EB299DEABD9225.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset'
+[2023.01.14-15.38.17:806][546]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.01.14-15.38.17:806][546]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.01.14-15.39.27:698][144]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.01.14-15.39.27:703][144]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.046
+[2023.01.14-15.39.27:704][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/Character/Archer] ([4] browsable assets)...
+[2023.01.14-15.39.27:815][144]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Character/Archer.Archer]
+[2023.01.14-15.39.27:858][144]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Character/Archer.Archer]
+[2023.01.14-15.39.27:858][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Character/Archer]
+[2023.01.14-15.39.27:915][144]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/Archer_Auto5E83EA4C04207D460DDE31CBC03397156.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/Autosaves/Game/Blueprints/Pawns/Character/Archer_Auto5.uasset'
+[2023.01.14-15.39.27:916][144]LogFileHelpers: Auto-saving content packages took 0.213
+[2023.01.14-15.39.31:643][229]BlueprintLog: New page: Compile Archer
+[2023.01.14-15.39.31:799][229]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2023.01.14-15.39.32:539][239]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/Archer701414B54B5745FF4CB1D2BB3C24229C.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/Blueprints/Pawns/Character/Archer.uasset'
+[2023.01.14-15.39.32:658][239]AssetCheck: New page: Asset Save: Archer
+[2023.01.14-15.39.32:658][239]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Character/Archer.Archer
+[2023.01.14-15.39.46:596][556]BlueprintLog: New page: Compile Archer
+[2023.01.14-15.39.46:690][556]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2023.01.14-15.41.30:522][998]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.14-15.41.37:437][152]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.14-15.44.15:685][738]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.44.15:808][738]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2023.01.14-15.44.42:238][344]BlueprintLog: New page: Compile Archer
+[2023.01.14-15.44.42:341][344]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2023.01.14-15.45.35:842][519]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.45.35:976][519]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2023.01.14-15.45.53:975][940]BlueprintLog: New page: Compile Archer
+[2023.01.14-15.45.54:093][940]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2023.01.14-15.45.54:972][952]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/Archer7990ABFA4B50840A539D42A885796027.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/Blueprints/Pawns/Character/Archer.uasset'
+[2023.01.14-15.45.55:082][952]AssetCheck: New page: Asset Save: Archer
+[2023.01.14-15.45.55:082][952]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Character/Archer.Archer
+[2023.01.14-15.46.00:929][ 91]BlueprintLog: New page: Compile Archer
+[2023.01.14-15.46.01:023][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2023.01.14-15.46.01:621][ 99]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/ArcherFE34343740A7B98A92299C887EF407C1.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/Blueprints/Pawns/Character/Archer.uasset'
+[2023.01.14-15.46.01:717][ 99]AssetCheck: New page: Asset Save: Archer
+[2023.01.14-15.46.01:717][ 99]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Character/Archer.Archer
+[2023.01.14-15.46.03:333][140]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.14-15.46.03:348][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.14-15.46.03:348][140]PIE: New page: PIE session: Untitled_1 (14 sty 2023, 17:46:03)
+[2023.01.14-15.46.03:348][140]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.46.03:351][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003274s)
+[2023.01.14-15.46.03:353][140]LogAIModule: Creating AISystem for world Untitled_1
+[2023.01.14-15.46.03:353][140]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2023.01.14-15.46.03:353][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004978s)
+[2023.01.14-15.46.03:453][140]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2023.01.14-15.46.03:454][140]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.01.14-15.46.03:454][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.14-15.46.03:454][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.14-15.46.03:454][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.14-15.46.03:454][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.14-15.46.03:454][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.14-15.46.03:454][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.14-15.46.03:454][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.14-15.46.03:454][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.14-15.46.03:455][140]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.14-15.46.03:455][140]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.14-15.46.03:455][140]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.14-15.46.03:455][140]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.14-15.46.03:461][140]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.14-15.46.03:461][140]LogAudioMixer: Display: 1: FrontRight
+[2023.01.14-15.46.03:486][140]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2023.01.14-15.46.03:486][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.14-15.46.03:486][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.14-15.46.03:486][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.14-15.46.03:487][140]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.14-15.46.03:488][140]LogAudioEndpoints: Display: No endpoint implementation for Vibration Output found for this platform. Endpoint Submixes set to this type will not do anything.
+[2023.01.14-15.46.03:488][140]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.14-15.46.03:488][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.14-15.46.03:489][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.14-15.46.03:489][140]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.14-15.46.03:489][140]LogInit: FAudioDevice initialized.
+[2023.01.14-15.46.03:489][140]LogAudio: Display: Audio Device (ID: 20) registered with world 'Untitled_1'.
+[2023.01.14-15.46.03:504][140]LogLoad: Game class is 'TopDownShooter_C'
+[2023.01.14-15.46.03:505][140]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.01.14-16.46.03
+[2023.01.14-15.46.03:505][140]LogWorld: Bringing up level for play took: 0.000732
+[2023.01.14-15.46.03:505][140]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2023.01.14-15.46.03:572][140]PIE: Server logged in
+[2023.01.14-15.46.03:573][140]PIE: Play in editor total start time 0,23 seconds.
+[2023.01.14-15.46.27:170][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.46.27:170][856]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.46.27:170][856]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-15.46.27:171][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.46.27:201][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.14-15.46.27:240][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.46.27:272][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.14-15.46.27:273][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.46.27:274][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.46.27:278][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.46.27:284][856]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.01.14-15.46.27:324][857]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.01.14-15.47.06:110][815]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.47.06:177][815]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2023.01.14-15.47.06:781][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.01.14-15.47.06:823][826]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/W_PlayerHUDE4152AFB4E807B83921863B68CC779F3.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset'
+[2023.01.14-15.47.06:851][826]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.01.14-15.47.06:852][826]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.01.14-15.47.08:607][869]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.14-15.47.08:622][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.14-15.47.08:622][869]PIE: New page: PIE session: Untitled_1 (14 sty 2023, 17:47:08)
+[2023.01.14-15.47.08:622][869]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.47.08:626][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003210s)
+[2023.01.14-15.47.08:627][869]LogAIModule: Creating AISystem for world Untitled_1
+[2023.01.14-15.47.08:627][869]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2023.01.14-15.47.08:627][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004959s)
+[2023.01.14-15.47.08:669][869]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2023.01.14-15.47.08:670][869]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.01.14-15.47.08:670][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.14-15.47.08:670][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.14-15.47.08:670][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.14-15.47.08:670][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.14-15.47.08:670][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.14-15.47.08:670][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.14-15.47.08:670][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.14-15.47.08:670][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.14-15.47.08:671][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.14-15.47.08:671][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.14-15.47.08:671][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.14-15.47.08:671][869]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.14-15.47.08:677][869]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.14-15.47.08:677][869]LogAudioMixer: Display: 1: FrontRight
+[2023.01.14-15.47.08:701][869]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2023.01.14-15.47.08:702][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.14-15.47.08:702][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.14-15.47.08:702][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.14-15.47.08:703][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.14-15.47.08:703][869]LogAudioEndpoints: Display: No endpoint implementation for Vibration Output found for this platform. Endpoint Submixes set to this type will not do anything.
+[2023.01.14-15.47.08:703][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.14-15.47.08:703][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.14-15.47.08:705][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.14-15.47.08:705][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.14-15.47.08:705][869]LogInit: FAudioDevice initialized.
+[2023.01.14-15.47.08:705][869]LogAudio: Display: Audio Device (ID: 21) registered with world 'Untitled_1'.
+[2023.01.14-15.47.08:720][869]LogLoad: Game class is 'TopDownShooter_C'
+[2023.01.14-15.47.08:722][869]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.01.14-16.47.08
+[2023.01.14-15.47.08:722][869]LogWorld: Bringing up level for play took: 0.000717
+[2023.01.14-15.47.08:722][869]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2023.01.14-15.47.08:727][869]PIE: Server logged in
+[2023.01.14-15.47.08:728][869]PIE: Play in editor total start time 0,11 seconds.
+[2023.01.14-15.47.13:220][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.47.13:220][  7]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.47.13:220][  7]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-15.47.13:221][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.47.13:237][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.14-15.47.13:275][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.47.13:308][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.14-15.47.13:309][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.47.13:312][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.47.13:318][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.47.13:324][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.01.14-15.47.13:368][  8]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.01.14-15.48.05:188][174]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.01.14-15.48.05:264][174]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2023.01.14-15.48.05:698][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.01.14-15.48.05:726][181]LogSavePackage: Moving '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Saved/W_PlayerHUD22FE1961410395E623012FBCB162924A.tmp' to '../../../../../../projekty/Uś_projektowanie gire/programowanie/TopDown/TopDownIgorStoczek/Content/UI/W_PlayerHUD.uasset'
+[2023.01.14-15.48.05:754][181]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.01.14-15.48.05:754][181]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.01.14-15.48.07:929][234]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.14-15.48.07:945][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.14-15.48.07:945][234]PIE: New page: PIE session: Untitled_1 (14 sty 2023, 17:48:07)
+[2023.01.14-15.48.08:006][234]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.48.08:010][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003448s)
+[2023.01.14-15.48.08:011][234]LogAIModule: Creating AISystem for world Untitled_1
+[2023.01.14-15.48.08:011][234]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2023.01.14-15.48.08:012][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005227s)
+[2023.01.14-15.48.08:050][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.01.14-15.48.08:067][234]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.01.14-15.48.08:068][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.14-15.48.08:068][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.14-15.48.08:068][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.14-15.48.08:068][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.14-15.48.08:068][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.14-15.48.08:068][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.14-15.48.08:068][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.14-15.48.08:068][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.14-15.48.08:069][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.14-15.48.08:069][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.14-15.48.08:069][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.14-15.48.08:069][234]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.14-15.48.08:074][234]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.14-15.48.08:074][234]LogAudioMixer: Display: 1: FrontRight
+[2023.01.14-15.48.08:094][234]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2023.01.14-15.48.08:095][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.14-15.48.08:095][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.14-15.48.08:095][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.14-15.48.08:096][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.14-15.48.08:096][234]LogAudioEndpoints: Display: No endpoint implementation for Vibration Output found for this platform. Endpoint Submixes set to this type will not do anything.
+[2023.01.14-15.48.08:096][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.14-15.48.08:096][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.14-15.48.08:098][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.14-15.48.08:098][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.14-15.48.08:098][234]LogInit: FAudioDevice initialized.
+[2023.01.14-15.48.08:098][234]LogAudio: Display: Audio Device (ID: 22) registered with world 'Untitled_1'.
+[2023.01.14-15.48.08:108][234]LogLoad: Game class is 'TopDownShooter_C'
+[2023.01.14-15.48.08:109][234]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.01.14-16.48.08
+[2023.01.14-15.48.08:109][234]LogWorld: Bringing up level for play took: 0.000707
+[2023.01.14-15.48.08:109][234]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2023.01.14-15.48.08:144][234]PIE: Server logged in
+[2023.01.14-15.48.08:145][234]PIE: Play in editor total start time 0,204 seconds.
+[2023.01.14-15.48.10:200][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.48.10:200][295]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.01.14-15.48.10:200][295]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.14-15.48.10:201][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.48.10:253][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.14-15.48.10:293][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.14-15.48.10:323][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.14-15.48.10:324][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.48.10:325][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.14-15.48.10:334][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.01.14-15.48.10:377][296]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.01.14-15.48.21:491][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
